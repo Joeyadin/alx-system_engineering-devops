@@ -1,2 +1,2 @@
 #!/bin/bash
-file touch /temp/iamafile
+file mktemp iamafile
